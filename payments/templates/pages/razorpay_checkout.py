@@ -16,9 +16,9 @@ expected_keys = (
 	"description",
 	"reference_doctype",
 	"reference_docname",
-	"payer_name",
-	"payer_email",
-	"order_id",
+	"first_name",
+	"email",
+	"tx-ref",
 	"currency",
 )
 
